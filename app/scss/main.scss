@@ -354,6 +354,19 @@
     background-color: rgb(252, 252, 195);
     background: center/cover url(../../images/Untitled-7.png);
 }
+
+.footer{
+    width: 100%;
+    height: rem(200);
+    line-height: rem(200);
+    text-align: center;
+    font-size: rem(30);
+    background-color: rgb(80, 85, 57);
+    color: white;
+    a{
+        color: rgb(192, 99, 99);
+    }
+}
 .show{
     height: fit-content;
 }
